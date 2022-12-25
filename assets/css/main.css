@@ -5200,13 +5200,13 @@ h6 {
 --------------------------------------------------------------*/
 .projects-one {
   padding-top: 80px;
-  padding-bottom: 50px;
+  /* padding-bottom: 50px; */
 }
 
 @media (min-width: 1200px) {
   .projects-one {
     padding-top: 120px;
-    padding-bottom: 90px;
+    /* padding-bottom: 90px; */
   }
 }
 

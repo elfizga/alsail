@@ -35,6 +35,7 @@
         }
       },
       submitHandler: function (form) {
+        console.log(form);
         // sending value with ajax request
         $.post(
           $(form).attr("action"),
