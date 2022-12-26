@@ -4933,8 +4933,8 @@ h6 {
 
 @media (min-width: 1200px) {
   [class*="col"] .contact-infos__single {
-    padding-left: 55px;
-    padding-right: 55px;
+    /* padding-left: 55px;
+    padding-right: 55px; */
   }
 }
 
