@@ -4195,7 +4195,7 @@ h6 {
 @media (min-width: 1200px) {
   .site-footer {
     padding-top: 100px;
-    padding-bottom: 76px;
+    /* padding-bottom: 76px; */
   }
 }
 
@@ -4486,7 +4486,7 @@ h6 {
 
 @media (min-width: 1200px) {
   .footer-widget__contact li {
-    min-height: 60px;
+    min-height: 65px;
     padding-left: 30px;
     display: -webkit-box;
     display: -ms-flexbox;
@@ -4505,7 +4505,7 @@ h6 {
 
 @media (min-width: 1200px) {
   .footer-widget__contact li:last-child > i {
-    top: 21px;
+    /* top: 21px; */
     -webkit-transform: translateY(0);
             transform: translateY(0);
   }
@@ -4563,8 +4563,8 @@ h6 {
 
 @media (min-width: 1200px) {
   .bottom-footer {
-    padding-top: 42.5px;
-    padding-bottom: 42.5px;
+    padding-top: 15.5px;
+    padding-bottom: 15.5px;
   }
 }
 
@@ -5202,7 +5202,9 @@ h6 {
   padding-top: 80px;
   /* padding-bottom: 50px; */
 }
-
+.w-20{
+  width: 20%;
+}
 @media (min-width: 1200px) {
   .projects-one {
     padding-top: 120px;
