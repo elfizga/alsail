@@ -482,7 +482,7 @@
   content: "";
   width: 100%;
   height: 16px;
-  background-image: url(../images/shapes/ripped-paper-white-up.png);
+  background-image: url(../../../assets/images/shapes/ripped-paper-white-up.png);
   position: absolute;
   bottom: 0px;
   left: 0;
@@ -2005,7 +2005,7 @@ h6 {
 }
 
 .block-title__image {
-  background-image: url(../images/vector.png);
+  background-image: url(../../../../assets/images/vector.png);
   background-size: 100%;
   width: 24px;
   height: 25px;
@@ -2299,7 +2299,7 @@ h6 {
   position: absolute;
   bottom: -15px;
   left: 0;
-  background-image: url(../images/shapes/ripped-paper-header-1.png);
+  background-image: url(../../../../assets/images/shapes/ripped-paper-header-1.png);
   background-position: center center;
   background-size: auto;
 }
@@ -2418,7 +2418,7 @@ h6 {
   left: 50%;
   -webkit-transform: translateX(-50%);
           transform: translateX(-50%);
-  background-image: url(../images/shapes/header-arrow-1-1.png);
+  background-image: url(../../../../assets/images/shapes/header-arrow-1-1.png);
   background-position: center center;
   background-repeat: no-repeat;
   opacity: 0;
@@ -3607,7 +3607,7 @@ h6 {
   content: "";
   width: 108px;
   height: 101px;
-  background-image: url(../images/shapes/banner-1-shape-1.png);
+  background-image: url(../../../../assets/images/shapes/banner-1-shape-1.png);
   background-repeat: no-repeat;
   position: absolute;
   top: -10px;
@@ -3816,7 +3816,7 @@ h6 {
   position: absolute;
   bottom: 0;
   left: 0;
-  background-image: url(../images/shapes/ripped-paper-slider-2.png);
+  background-image: url(../../../../assets/images/shapes/ripped-paper-slider-2.png);
   background-position: center center;
   background-size: auto;
   z-index: 9;
@@ -3894,12 +3894,12 @@ h6 {
 }
 
 .main-slider__two .swiper-slide h2::before {
-  background-image: url(../images/icons/main-slider-icon-2-1.png);
+  background-image: url(../../../../assets/images/icons/main-slider-icon-2-1.png);
   right: 100%;
 }
 
 .main-slider__two .swiper-slide h2::after {
-  background-image: url(../images/icons/main-slider-icon-2-2.png);
+  background-image: url(../../../../assets/images/icons/main-slider-icon-2-2.png);
   left: 100%;
 }
 
@@ -3975,7 +3975,7 @@ h6 {
   position: absolute;
   bottom: -1px;
   left: 0;
-  background-image: url(../images/shapes/ripped-paper-slider-2.png);
+  background-image: url(../../../../assets/images/shapes/ripped-paper-slider-2.png);
   background-position: center center;
   background-size: auto;
   z-index: 9;
@@ -4141,7 +4141,7 @@ h6 {
   content: "";
   width: 100%;
   height: 16px;
-  background-image: url(../images/shapes/ripped-paper-white-up.png);
+  background-image: url(../../../../assets/images/shapes/ripped-paper-white-up.png);
   position: absolute;
   bottom: -16px;
   left: 0;
@@ -4177,7 +4177,7 @@ h6 {
   content: "";
   width: 100%;
   height: 16px;
-  background-image: url(../images/shapes/ripped-paper-base-2.png);
+  background-image: url(../../../../assets/images/shapes/ripped-paper-base-2.png);
   position: absolute;
   top: -15px;
   left: 0;
@@ -4572,7 +4572,7 @@ h6 {
   content: "";
   width: 100%;
   height: 16px;
-  background-image: url(../images/shapes/ripped-paper-base.png);
+  background-image: url(../../../../assets/images/shapes/ripped-paper-base.png);
   position: absolute;
   top: -16px;
   left: 0;
@@ -5790,7 +5790,7 @@ h6 {
   content: "";
   width: 100%;
   height: 16px;
-  background-image: url(../images/shapes/ripped-paper-white-up.png);
+  background-image: url(../../../../assets/images/shapes/ripped-paper-white-up.png);
   position: absolute;
   top: 0px;
   left: 0;
@@ -5811,7 +5811,7 @@ h6 {
   content: "";
   width: 100%;
   height: 16px;
-  background-image: url(../images/shapes/ripped-paper-white-up.png);
+  background-image: url(../../../../assets/images/shapes/ripped-paper-white-up.png);
   position: absolute;
   bottom: 0px;
   left: 0;
@@ -6062,7 +6062,7 @@ h6 {
   content: "";
   width: 100%;
   height: 16px;
-  background-image: url(../images/shapes/ripped-paper-primary-up.png);
+  background-image: url(../../../../assets/images/shapes/ripped-paper-primary-up.png);
   position: absolute;
   top: -16px;
   left: 0;
@@ -6207,7 +6207,7 @@ h6 {
   content: "";
   width: 100%;
   height: 16px;
-  background-image: url(../images/shapes/ripped-paper-gray-up.png);
+  background-image: url(../../../../assets/images/shapes/ripped-paper-gray-up.png);
   position: absolute;
   top: -16px;
   left: 0;
@@ -6251,7 +6251,7 @@ h6 {
   content: "";
   width: 100%;
   height: 16px;
-  background-image: url(../images/shapes/ripped-paper-white-up.png);
+  background-image: url(../../../../assets/images/shapes/ripped-paper-white-up.png);
   position: absolute;
   top: -16px;
   left: 0;
@@ -6881,7 +6881,7 @@ h6 {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  background-image: url(../images/shapes/about-circle-1-1.png);
+  background-image: url(../../../../assets/images/shapes/about-circle-1-1.png);
   background-position: center center;
   background-repeat: no-repeat;
   -webkit-box-orient: vertical;
@@ -7722,7 +7722,7 @@ h6 {
   content: "";
   width: 100%;
   height: 16px;
-  background-image: url(../images/shapes/ripped-paper-testimonials-1.png);
+  background-image: url(../../../../assets/images/shapes/ripped-paper-testimonials-1.png);
   position: absolute;
   top: -15px;
   left: 0;
@@ -7743,7 +7743,7 @@ h6 {
   content: "";
   width: 100%;
   height: 16px;
-  background-image: url(../images/shapes/ripped-paper-testimonials-1.png);
+  background-image: url(../../../../assets/images/shapes/ripped-paper-testimonials-1.png);
   position: absolute;
   bottom: -15px;
   left: 0;
@@ -7973,7 +7973,7 @@ h6 {
   content: "";
   width: 100%;
   height: 16px;
-  background-image: url(../images/shapes/ripped-paper-base-2.png);
+  background-image: url(../../../../assets/images/shapes/ripped-paper-base-2.png);
   position: absolute;
   top: -15px;
   left: 0;
@@ -7992,7 +7992,7 @@ h6 {
   content: "";
   width: 100%;
   height: 16px;
-  background-image: url(../images/shapes/ripped-paper-base-2.png);
+  background-image: url(../../../../assets/images/shapes/ripped-paper-base-2.png);
   position: absolute;
   bottom: -15px;
   left: 0;
